@@ -1,0 +1,4 @@
+(executable
+ (public_name makefile)
+ (name main)
+ (libraries makefile))
